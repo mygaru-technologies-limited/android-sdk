@@ -77,7 +77,7 @@ For all features provided by myGaru you need to include in your app manifest fil
 
 ### Step 2 - Initialize **myGaru SDK**
 
-First, you'll need to get your **myGaru** Android API key. To find these, just select the 'myGaru for Android' option in your [app settings](https://forinfinite.pw/#/dev/my-apps) .
+First, you'll need to get your **myGaru** Android API key. To find these, just contact our team [sdk@mygaru.com](mailto:sdk@mygaru.com)
 
 
 Then, initialize **myGaru** by calling the following in the onCreate() method of your application class:
